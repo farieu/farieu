@@ -5,6 +5,7 @@
 ### 🔎 Sobre mim:
 - 📚 Atualmente estou cursando o 5 período em **Sistemas de Informação** na **Universidade Federal Rural de Pernambuco**.
 - 👨🏻‍💻 Tive a oportunidade de ser bolsista em um projeto voltado para inovação por IA para diagnóstico de esquizofrenia em dispositivos Alexa.
+- 📄 Obtive **3** certificações AWS Cloud Computing, além de certificados adicionais voltados para Machine Learning e Banco de Dados SQL.
 - 🎓 Possuo interesse na área de **Ciência de Dados**, com contato prévio em ferramentas como: MySQL, Machine Learning e modelos de IA.
 - 🐍 Minha linguagem de programação favorita é **Python**, porém já tive contato com C, Java e Assemble.
 - 🌎 Possuo conhecimento **avançado** em inglês, e básico em espanhol.
@@ -42,6 +43,7 @@
 ### 🔎 About me:
 - 📚 Currently in the 5th semester of **Information Systems** at the **Federal Rural University of Pernambuco**.
 - 👨🏻‍💻 I'd the opportunity to be a scholarship holder in a project focused on AI innovation for diagnosing schizophrenia using Alexa devices.
+- 📄 I've earned **3** AWS Cloud Computing certifications, as well as additional certifications in Machine Learning and SQL Databases.
 - 🎓 I have an interest in the field of **Data Science**, with prior experience in tools such as MySQL, Machine Learning, and AI models.
 - 🐍 My favorite programming language is **Python**, but I have also had experience with C, Java, and Assembly.
 - 🌎 I'm a **native Portuguese speaker**, with **advanced** knowledge of English and basic knowledge of Spanish.
