@@ -13,7 +13,7 @@
 
 ### 💻 Linguagens de Programação:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farieu&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farieu&layout=compact)
 
 ### ⚙ Frameworks, Bibliotecas e outras tecnologias:
 <p align="center">
